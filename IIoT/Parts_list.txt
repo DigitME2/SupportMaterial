@@ -1,0 +1,14 @@
+Parts required for the IIoT demo:
+
+Raspberry Pi 3 or 4
+Raspberry Pi power supply
+MicroSD card, at least 8 GB
+Dupont jumper wires
+Electronics breadboard
+LED - any colour
+switch - I used this one, with a cut up jumper wire soldered to two of the legs: https://www.bitsbox.co.uk/index.php?main_page=product_info&cPath=116_134&products_id=903
+AM2302 or DHT22 temperature and humidity sensor - I used this: https://www.bitsbox.co.uk/index.php?main_page=product_info&cPath=302_306&products_id=2478
+2 x 1 kOhm resistor
+1 x 220 Ohm resistor
+
+A set of peripherals for the Rasbperry Pi is also useful. You can often but a bundle that includes everything apart from a screen.
